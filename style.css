@@ -1,0 +1,33 @@
+body{
+  background: url('https://catherineasquithgallery.com/uploads/posts/2021-02/1614324917_18-p-raznotsvetnii-fon-dlya-tik-toka-30.jpg')  no-repeat center center fixed;
+  background-size: cover;
+ font-family: Arial, Helvetica, sans-serif; 
+}
+.container{
+  background-color: #1d1d1d;
+  margin: 0 auto;
+  height: 400px;
+  width: 400px;
+  border-radius: 50px;
+  box-shadow: 10px 10px black; 
+  margin-top: 400px;
+  padding: 20px;
+  text-align: center;
+  color: aliceblue;
+}
+button{
+  width: 120px;
+  height: 80px;
+cursor: pointer;
+}
+button:hover{
+  background-color: red;
+  transition: all 500ms;
+  color: aliceblue;
+}
+.line{
+  height: 30px;
+  width: 350px;
+  margin: 0 auto;
+  border-radius: 20px;
+}
